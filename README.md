@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**MalikNdayisaba/MalikNdayisaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m Malik, a Final-year Bachelor of Information Technology (BIT) student with a strong interest in software development and IT systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on: 
+Strengthening JavaScript and React development skills
+Building portfolio projects focused on clean code and algorithms
+
+Technical Skills:
+Languages: C#, JavaScript, SQL
+Frontend: HTML, CSS, React, Tailwind CSS
+Concepts: Algorithms, data structures, file handling, indexing, searching, sorting
+
+Tools: Git, GitHub, VS Code, Visual Studio
+
+Career Interests:
+Graduate / Junior Software Developer roles
+Full-stack development
+Technology-driven problem solving
+
+
+Quick Facts:
+Strong foundation in C# and object-oriented programming
+Experience with console and web-based applications
