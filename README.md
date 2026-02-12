@@ -1,5 +1,30 @@
 # 💫 About Me:
-# 💫 About Me:<br>Hi there 👋<br><br><br>I’m Malik, a Final-year Bachelor of Information Technology (BIT) student with a strong passion for software development, networking, and IT systems.<br><br><br><br>Currently working on:<br><br>Strengthening JavaScript and React development skills<br><br>Building real-world portfolio projects with clean, maintainable code<br><br>Improving problem-solving with algorithms and data structures<br><br><br><br>Technical Skills:<br><br>Languages: C#, JavaScript, SQL<br><br>Frontend: HTML, CSS, React, Tailwind CSS<br><br>Backend & Databases: .NET, MySQL, SQL Server<br><br>Concepts: OOP, algorithms, data structures, indexing, searching, sorting, networking fundamentals<br><br><br><br>Tools: Git, GitHub, VS Code, Visual Studio, Cisco Packet Tracer<br><br><br><br>Career Interests:<br><br>Graduate / Junior Software Developer roles<br><br>Full-stack and Back-end development<br><br>Cloud, systems, and technology-driven problem solving<br><br><br><br>Quick Facts:<br><br>Strong foundation in C# and object-oriented programming<br><br>Experience building console, desktop, and web-based applications<br><br>Comfortable with Git workflows and collaborative development<br><br>Always learning and building 🚀<br>
+Hi there 👋<br><br>
+I’m Malik, a Final-year Bachelor of Information Technology (BIT) student with a strong passion for software development, networking, and IT systems.<br><br>
+
+Currently working on:<br>
+Strengthening JavaScript and React development skills<br>
+Building real-world portfolio projects with clean, maintainable code<br>
+Improving problem-solving with algorithms and data structures<br><br>
+
+Technical Skills:<br>
+Languages: C#, JavaScript, SQL<br>
+Frontend: HTML, CSS, React, Tailwind CSS<br>
+Backend & Databases: .NET, MySQL, SQL Server<br>
+Concepts: OOP, algorithms, data structures, indexing, searching, sorting, networking fundamentals<br><br>
+
+Tools: Git, GitHub, VS Code, Visual Studio, Cisco Packet Tracer<br><br>
+
+Career Interests:<br>
+Graduate / Junior Software Developer roles<br>
+Full-stack and Back-end development<br>
+Cloud, systems, and technology-driven problem solving<br><br>
+
+Quick Facts:<br>
+Strong foundation in C# and object-oriented programming<br>
+Experience building console, desktop, and web-based applications<br>
+Comfortable with Git workflows and collaborative development<br>
+Always learning and building 🚀
 
 
 ## 🌐 Socials:
